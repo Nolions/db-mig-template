@@ -1,0 +1,21 @@
+{
+    "name": "ht-co/mig-kyogre",
+    "description": "Migration For Kyogre",
+    "authors": [
+        {
+            "name": "bNolions",
+            "email": "bnolions@h-tech.co"
+        }
+    ],
+    "require": {
+        "php": ">=7.3",
+        "robmorgan/phinx": "^0.11.1",
+        "vlucas/phpdotenv": "^3.5"
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+
+}
